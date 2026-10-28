@@ -3,7 +3,7 @@
     {
       "name": "Github",
       "description": "Voir mon profil Github",
-      "link": "https://github.com/Curs3W4ll",
+      "link": "https://github.com/corthx",
       "image": "github.png"
     },
     {
@@ -26,8 +26,8 @@
     },
     {
       "name": "GitHub",
-      "value": "Curs3W4ll",
-      "link": "https://github.com/Curs3W4ll"
+      "value": "corthx",
+      "link": "https://github.com/corthx"
     },
     {
       "name": "Téléphone",
@@ -50,7 +50,7 @@
         {
           "name": "Github",
           "icon": "Github.png",
-          "link": "https://github.com/Curs3W4ll/MatriLED"
+          "link": "https://github.com/corthx/MatriLED"
         }
       ]
     },
@@ -62,7 +62,7 @@
         {
           "name": "Github",
           "icon": "Github.png",
-          "link": "https://github.com/Curs3W4ll/corentin-hervaud"
+          "link": "https://github.com/corthx/corentin-hervaud"
         }
       ]
     },
