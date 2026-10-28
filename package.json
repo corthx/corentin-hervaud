@@ -51,13 +51,13 @@
   "main": "babel.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Curs3W4ll/corentin-hervaud.git"
+    "url": "git+https://github.com/corthx/corentin-hervaud.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Curs3W4ll/corentin-hervaud/issues"
+    "url": "https://github.com/corthx/corentin-hervaud/issues"
   },
-  "homepage": "https://github.com/Curs3W4ll/corentin-hervaud#readme"
+  "homepage": "https://github.com/corthx/corentin-hervaud#readme"
 }
